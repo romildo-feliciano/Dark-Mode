@@ -13,4 +13,4 @@ Projeto referente ao curso "**Manipulando o DOM**" que estudei pela Digital Inno
 
 
 
-![dark-mode-exercicio](C:\Users\Romildo\Desktop\projetos\projetos-ro\Dark-Mode\dark-mode-exercicio.gif)
+![dark-mode-exercicio](https://user-images.githubusercontent.com/99299829/170361230-23a745a9-772c-44e2-bbc1-ca93ca6dcb7f.gif)
